@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_insert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:icon="@android:drawable/ic_menu_add"
+        android:orderInCategory="200"
+        android:title="Insert"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/search_name"
+        android:orderInCategory="100"
+        android:title="@string/action_search_by_name"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/search_species"
+        android:orderInCategory="100"
+        android:title="@string/action_search_by_species"
+        app:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Trabalho</string>
+    <string name="action_search_by_name">Pesquisar por nome</string>
+    <string name="action_search_by_species">Pesquisar por Espécie</string>
+    <string name="ask_name">Nome:</string>
+    <string name="empty">Vazio</string>
+    <string name="ask_species">Espécie:</string>
+    <string name="ask_race">Raça:</string>
+    <string name="ask_weight">Peso (kg):</string>
+    <string name="empty_weight">0.0</string>
+    <string name="ask_date">Data de Nascimento:</string>
+    <string name="ask_size">Porte:</string>
+    <string name="Big">Grande</string>
+    <string name="Medium">Médio</string>
+    <string name="Small">Pequeno</string>
+    <string name="add">Adicionar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="change">Alterar</string>
+    <string name="delete">Remover</string>
+    <string name="error_fields">Operação Inválida !</string>
+</resources>
